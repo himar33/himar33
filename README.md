@@ -1,18 +1,55 @@
-### Hi there 👋
+<img src="images/banner.png" alt="banner introducing Himar Bravo page">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/himarsus)](https://twitter.com/himarsus)
+## Find Me Here ↓↓↓
+[![Static Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/himarsus)
+[![Static Badge](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/himarsus)
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himar-bravo-gonz%C3%A1lez-bb7a8b1ab/)
+[![Static Badge](https://img.shields.io/badge/Itchio.io-red?style=for-the-badge&logo=itchdotio)](https://himar33.itch.io/)
+[![Static Badge](https://img.shields.io/badge/Unity_forum-black?style=for-the-badge&logo=unity)](https://forum.unity.com/members/unity_de396eb2813f99e6912e.8285575/)
 
-<!--
-**himar33/himar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Check my projects ↓↓↓
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>⚒️ Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/himar33/TimerTool-Unity-Utility"><b>Timer Tool For Unity ⏱️</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://himar33.itch.io/spacebar-the-game"><b>SPACEBAR 🎮 (GameJam)</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://himar33.github.io/RPG-Progression/"><b>RPG Progression searching work post 📚</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AMADE128/MonkStudio"><b>MonkStudio, a game engine from scratch 🔧</b></a></td>
+    </tr
+  </tbody>
+</table>
 
-Here are some ideas to get you started:
+## Currently Developing ↓↓↓
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>⚒️ Projects</b></td>
+      <td><b>⚒📚 Description</b></td>
+      <td><b>⏱️ Start Date</b></td>
+      <td><b>⏱️ Final Date</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/himar33/RoguetyCraft"><b>RoguetyCraft</b></a></td>
+      <td>Final degree project based on a toolkit to develop metroidvanias and roguelikes games</td>
+      <td>--/01/2023</td>
+      <td>--/09/2023</td>
+    </tr>
+  </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github stats 😔
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himar33&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himar33&layout=compact&theme=radical)
