@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/himarsus)](https://twitter.com/himarsus)
+
 <!--
 **himar33/himar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
